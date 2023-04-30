@@ -10,7 +10,7 @@ Architecture
 The model is built using a 1D convolutional neural network, which takes the sequence of integers as input and learns to classify the sentiment based on the patterns in the data. The model consists of an embedding layer, followed by multiple convolutional and pooling layers, and finally a dense output layer with a sigmoid activation function.
 
 Results
-The model achieves an accuracy of  88.54% on the testing set, demonstrating its effectiveness at performing sentiment classification on movie reviews.
+The model achieves an accuracy of ** 88.54%** on the testing set, demonstrating its effectiveness at performing sentiment classification on movie reviews.
 
 Usage
 The code for this project is written in Python using the Keras library and was run on Google Colab. To run the code, simply open the final_pattern_project.ipynb notebook in Colab or Jupyter and follow the instructions in the notebook.
